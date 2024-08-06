@@ -1,0 +1,99 @@
+.title{
+  text-align: center;
+font-size: 48px;
+  padding: 24px 0px;
+  font-weight: 700;
+
+}
+.kxui-body{
+  margin-top: 24px;
+  width: 400px;
+  height: auto;
+
+ align-items: center;
+ margin: auto;
+}
+.kxui-select-value{
+  margin: 20px 0px;
+
+  
+}
+.kxui-data-desgin{
+
+  border-radius: 10px;
+
+  display: flex;
+  gap: 24px;
+  border: 2px solid gainsboro;
+    background-color: white;
+    box-shadow: 2px  4px 2px 2px rgba(242, 240, 240, 0.9);
+  border-radius: 8px;
+  padding: 8px;
+}
+.kxui-data{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.kxui-clear{
+font-size: 16px;
+font-weight: 400;
+cursor: pointer;
+color: black;
+text-align: right;
+
+}
+.kxui-input-box{
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 5px;
+  position: relative;
+}
+.kxui-input{
+  width: 400px;
+  height: 50px;
+  border-radius: 10px;
+  border: 2px solid red;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 600;
+  text-transform: capitalize;
+
+}
+.kxui-search{
+  position: absolute;
+  left: 8px;
+  top: 16px;
+  font-size: 24px;
+  font-weight: 800;
+  
+}
+.kxui-add{
+  position: absolute;
+  right: 8px;
+  top: 12px;
+  font-weight: 600;
+  text-align: center;
+  font-size: 18px;
+
+}
+.kxui-list{
+ margin-top: 20px;
+  background-color: white;
+  box-shadow: 2px  4px 2px 4px rgba(242, 240, 240, 0.9);
+border-radius: 8px;
+}
+  
+
+.kxui-list-item{
+  padding: 10px 20px;
+  font-size: 18px;
+  font-weight: 600;
+  text-align: left;
+}
+.kxui-list-item:hover{
+  background-color: rgb(112, 231, 231);
+}
